@@ -1,4 +1,3 @@
-I'll help you create a README.md file for your GitHub repository containing the Chess.com Game Utility script. I'll structure it with all the essential sections.
 
 ```markdown
 # Chess.com Game Utility
